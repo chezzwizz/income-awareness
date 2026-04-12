@@ -1,0 +1,1 @@
+{\n  "manifest_version": 2,\n  "name": "Income Awareness Plugin",\n  "version": "1.0",\n  "description": "A Safari extension to promote income awareness.",\n  "browser_action": {\n    "default_popup": "popup.html",\n    "default_icon": "icon.png"\n  },\n  "permissions": [\n    "activeTab"\n  ]\n}
